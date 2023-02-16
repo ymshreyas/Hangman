@@ -1,0 +1,21 @@
+	                                   
+				    Welcome to the hangman game
+	
+        Rules of the game
+	
+	1) You have to guess the word based on the type of theme that you are going to choose
+	2) All the letters should be entered in lower case only
+	3) You will have 7 lives before you guess the word, if you enter a wrong letter you will lose one life
+	4) Guess the right word before you lose all your lives to be a certified winner
+	5) There will be no space between two words
+        6) You have to enter one single letter at a time
+	                               
+                                    Have fun and beware you can be hanged
+	
+        Select one of the themes given below to guess the word which is related to that particular theme
+
+	1) Country names
+	2) Brand names
+	3) Famous personality names
+	4) Movie names
+	5) Company names
